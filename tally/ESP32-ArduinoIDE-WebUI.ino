@@ -12,7 +12,7 @@
 
 // Configurable parameters
 char deviceName[32] = "device-name";
-char hubIp[16] = "10.4.20.41";
+char hubIp[16] = "10.0.0.1";
 int hubPort = 7411;
 int ledPin = DEFAULT_LED_PIN;
 int ledCount = DEFAULT_NUM_LEDS;
